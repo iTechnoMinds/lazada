@@ -1,0 +1,25 @@
+{
+    "name": "iTechnoMinds/lazada",
+    "description": "A Lazada PHP SDK for PHP",
+    "keywords": [
+        "lazada",
+        "php"
+    ],
+    "homepage": "https://github.com/iTechnoMinds/lazada",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dnyaneshwar Telgad",
+            "email": "ddtelgad@gmail.com",          
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lazada\\": "vendor/lazada/src"
+        }
+    }
+}
