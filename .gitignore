@@ -1,0 +1,6 @@
+nbproject/private/
+application/config/app.ini
+vendor/*
+!vendor/
+composer.lock
+*.phar
